@@ -1,0 +1,1 @@
+<template>    <el-card style="padding: 20px;" shadow="always">        Dashboard    </el-card></template>

@@ -10,7 +10,8 @@
   "dependencies": {
     "element-ui": "^2.3.4",
     "vue": "^2.5.16",
-    "vue-resource": "^1.5.1"
+    "vue-resource": "^1.5.1",
+    "vue-router": "^3.0.1"
   },
   "engines": {
     "node": ">=6"

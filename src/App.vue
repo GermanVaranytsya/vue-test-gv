@@ -1,27 +1,13 @@
 <template>
     <div id="app">
-        <el-container>
-            <el-header>
-                <el-card style="padding: 20px;" shadow="always">
-                    Dashboard
-                </el-card>
-            </el-header>
+        <app-dashboard>
 
-            <el-main>
-                <app-card>
-
-                </app-card>
-            </el-main>
-        </el-container>
+        </app-dashboard>
     </div>
 </template>
 
-<script>
-    export default {
-
-    }
-</script>
-
 <style>
+
+    @import '/src/style/style.css';
 
 </style>
