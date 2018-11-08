@@ -1,1 +1,1 @@
-<template>    <el-container>        <el-header>            <app-header></app-header>        </el-header>        <el-main>            <app-card></app-card>        </el-main>    </el-container></template>
+<template>    <el-container>        <el-main>            <app-card-dash></app-card-dash>        </el-main>    </el-container></template>

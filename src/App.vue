@@ -1,8 +1,9 @@
 <template>
     <div id="app">
-        <app-dashboard>
-
-        </app-dashboard>
+        <el-card style="padding: 20px;" shadow="always">
+            Dashboard
+        </el-card>
+        <router-view></router-view>
     </div>
 </template>
 
